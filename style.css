@@ -1,0 +1,43 @@
+body{
+
+
+    background-color: darkgray;
+    text-align: center;
+}
+
+
+h1{
+
+    display: inline-block;
+    color: darkblue;
+
+}
+
+body{
+
+    height: 80%;
+    justify-content: center;
+  
+    
+    
+}
+
+
+
+.button{
+
+
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    color: blue;
+
+}
+    
+     
+button:hover{
+
+    color: gold;
+    background-color: blue;
+
+}
